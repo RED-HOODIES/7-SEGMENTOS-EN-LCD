@@ -1,0 +1,152 @@
+[p GLOBOPT AUTOSTATIC IEEE_FLT IEEE_DBL LFSROK EMI_WORD ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 18F4550 ]
+[d frameptr 4065 ]
+"7 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+"7 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\awmod.c
+[v ___awmod __awmod `(i  1 e 2 0 ]
+"4 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\fleq.c
+[v ___fleq __fleq `(b  1 e 0 0 ]
+"62 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\float.c
+[v ___ftpack __ftpack `(f  1 e 4 0 ]
+"86 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 4 0 ]
+"54 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\ftdiv.c
+[v ___ftdiv __ftdiv `(f  1 e 4 0 ]
+"62 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\ftmul.c
+[v ___ftmul __ftmul `(f  1 e 4 0 ]
+"19 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\ftsub.c
+[v ___ftsub __ftsub `(f  1 e 4 0 ]
+"10 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\sprcadd.c
+[v ___fladd __fladd `(d  1 e 4 0 ]
+"245
+[v ___flsub __flsub `(d  1 e 4 0 ]
+"11 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\sprcdiv.c
+[v ___fldiv __fldiv `(d  1 e 4 0 ]
+"8 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\sprcmul.c
+[v ___flmul __flmul `(d  1 e 4 0 ]
+"15 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\Umul32.c
+[v ___lmul __lmul `(ul  1 e 4 0 ]
+"91 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\Umul64.c
+[v ___omul __omul `(uo  1 e 8 0 ]
+"12 C:\Users\TRABAJO\OneDrive\Escritorio\Distrital\6 Semestre\Tareas\Micros\DISPLAY_7SEG\PIC18F4550_DISPLAY_7SEG.X\main.c
+[v _ReadADC ReadADC `(ui  1 e 2 0 ]
+"20
+[v _DISPLAY_7SEG DISPLAY_7SEG `(v  1 e 1 0 ]
+"57
+[v _MOSTRAR_DISPLAY MOSTRAR_DISPLAY `(v  1 e 1 0 ]
+"79
+[v _main main `(v  1 e 1 0 ]
+"4 C:\Users\TRABAJO\OneDrive\Escritorio\Distrital\6 Semestre\Tareas\Micros\DISPLAY_7SEG\PIC18F4550_DISPLAY_7SEG.X\Setup.c
+[v _SetupOscilador SetupOscilador `(v  1 e 1 0 ]
+"9
+[v _Setupports Setupports `(v  1 e 1 0 ]
+"15
+[v _Setupint Setupint `(v  1 e 1 0 ]
+"20
+[v _SetupADC SetupADC `(v  1 e 1 0 ]
+"30
+[v _Setup Setup `(v  1 e 1 0 ]
+"3073 C:/Program Files (x86)/Microchip/MPLABX/v5.35/packs/Microchip/PIC18Fxxxx_DFP/1.2.26/xc8\pic\include\proc\pic18f4550.h
+[v _LATB LATB `VEuc  1 e 1 @3978 ]
+"3263
+[v _LATD LATD `VEuc  1 e 1 @3980 ]
+"3625
+[v _TRISB TRISB `VEuc  1 e 1 @3987 ]
+"4001
+[v _TRISD TRISD `VEuc  1 e 1 @3989 ]
+"6510
+[v _ADCON2 ADCON2 `VEuc  1 e 1 @4032 ]
+"6581
+[v _ADCON1 ADCON1 `VEuc  1 e 1 @4033 ]
+"6666
+[v _ADCON0 ADCON0 `VEuc  1 e 1 @4034 ]
+"6792
+[v _ADRESL ADRESL `VEuc  1 e 1 @4035 ]
+"6799
+[v _ADRESH ADRESH `VEuc  1 e 1 @4036 ]
+"9765
+[v _GO_nDONE GO_nDONE `VEb  1 e 0 @32273 ]
+"8 C:\Users\TRABAJO\OneDrive\Escritorio\Distrital\6 Semestre\Tareas\Micros\DISPLAY_7SEG\PIC18F4550_DISPLAY_7SEG.X\main.c
+[v _D1 D1 `i  1 e 2 0 ]
+[v _D2 D2 `i  1 e 2 0 ]
+[v _D3 D3 `i  1 e 2 0 ]
+[v _D4 D4 `i  1 e 2 0 ]
+"9
+[v _prueba prueba `i  1 e 2 0 ]
+"79
+[v _main main `(v  1 e 1 0 ]
+{
+"85
+} 0
+"30 C:\Users\TRABAJO\OneDrive\Escritorio\Distrital\6 Semestre\Tareas\Micros\DISPLAY_7SEG\PIC18F4550_DISPLAY_7SEG.X\Setup.c
+[v _Setup Setup `(v  1 e 1 0 ]
+{
+"37
+} 0
+"9
+[v _Setupports Setupports `(v  1 e 1 0 ]
+{
+"13
+} 0
+"15
+[v _Setupint Setupint `(v  1 e 1 0 ]
+{
+"18
+} 0
+"4
+[v _SetupOscilador SetupOscilador `(v  1 e 1 0 ]
+{
+"7
+} 0
+"20
+[v _SetupADC SetupADC `(v  1 e 1 0 ]
+{
+"27
+} 0
+"57 C:\Users\TRABAJO\OneDrive\Escritorio\Distrital\6 Semestre\Tareas\Micros\DISPLAY_7SEG\PIC18F4550_DISPLAY_7SEG.X\main.c
+[v _MOSTRAR_DISPLAY MOSTRAR_DISPLAY `(v  1 e 1 0 ]
+{
+"77
+} 0
+"7 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\awmod.c
+[v ___awmod __awmod `(i  1 e 2 0 ]
+{
+"10
+[v ___awmod@sign sign `uc  1 a 1 13 ]
+[v ___awmod@counter counter `uc  1 a 1 12 ]
+"7
+[v ___awmod@dividend dividend `i  1 p 2 8 ]
+[v ___awmod@divisor divisor `i  1 p 2 10 ]
+"34
+} 0
+"7 C:\Program Files\Microchip\xc8\v2.41\pic\sources\c99\common\awdiv.c
+[v ___awdiv __awdiv `(i  1 e 2 0 ]
+{
+"10
+[v ___awdiv@quotient quotient `i  1 a 2 6 ]
+"11
+[v ___awdiv@sign sign `uc  1 a 1 5 ]
+[v ___awdiv@counter counter `uc  1 a 1 4 ]
+"7
+[v ___awdiv@dividend dividend `i  1 p 2 0 ]
+[v ___awdiv@divisor divisor `i  1 p 2 2 ]
+"41
+} 0
+"12 C:\Users\TRABAJO\OneDrive\Escritorio\Distrital\6 Semestre\Tareas\Micros\DISPLAY_7SEG\PIC18F4550_DISPLAY_7SEG.X\main.c
+[v _ReadADC ReadADC `(ui  1 e 2 0 ]
+{
+[v ReadADC@channel channel `uc  1 a 1 wreg ]
+[v ReadADC@channel channel `uc  1 a 1 wreg ]
+"14
+[v ReadADC@channel channel `uc  1 a 1 4 ]
+"18
+} 0
+"20
+[v _DISPLAY_7SEG DISPLAY_7SEG `(v  1 e 1 0 ]
+{
+[v DISPLAY_7SEG@x x `i  1 p 2 0 ]
+"55
+} 0
